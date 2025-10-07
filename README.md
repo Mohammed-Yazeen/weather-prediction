@@ -13,6 +13,6 @@ This project predicts weather conditions based on historical data using machine 
    ```bash
    pip install -r requirements.txt
 
-2.Run the app:
+2. Install dependencies:
    ```bash
-   python app.py
+   python.py
